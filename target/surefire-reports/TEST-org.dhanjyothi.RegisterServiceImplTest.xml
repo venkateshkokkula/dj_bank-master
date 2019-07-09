@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.dhanjyothi.RegisterServiceImplTest" time="0.703" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\bin"/>
+    <property name="java.vm.version" value="25.144-b01"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\Office\Dhanajyothi_Latest\Dhanajyothi_Latest"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\Office\Dhanajyothi_Latest\Dhanajyothi_Latest"/>
+    <property name="java.runtime.version" value="1.8.0_144-b01"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\laxma\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="E:\Office\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2052596051648696567.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Java\jdk1.8.0_144\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_121/bin/server;C:/Program Files/Java/jre1.8.0_121/bin;C:/Program Files/Java/jre1.8.0_121/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files (x86)\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Program Files\nodejs\;C:\Users\laxma\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Microsoft VS Code\bin;C:\Users\laxma\AppData\Roaming\npm;E:\Java Software\eclipse 64 bit mars;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\laxma"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="laxma"/>
+    <property name="java.class.path" value="/E:/Java Software/eclipse 64 bit mars/plugins/org.eclipse.m2e.maven.runtime_1.6.2.20150902-0001/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_144"/>
+    <property name="java.ext.dirs" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files (x86)\Java\jdk1.8.0_144\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\Office\Dhanajyothi_Latest\Dhanajyothi_Latest\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="testGetAllCustomers" classname="org.dhanjyothi.RegisterServiceImplTest" time="0.609"/>
+  <testcase name="testSaveRegister" classname="org.dhanjyothi.RegisterServiceImplTest" time="0.09">
+    <failure message="expected:&lt;1&gt; but was:&lt;3&gt;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: expected:<1> but was:<3>
+	at org.dhanjyothi.RegisterServiceImplTest.testSaveRegister(RegisterServiceImplTest.java:52)
+]]></failure>
+    <system-out><![CDATA[User [userId=0, userRole=null, userStatus=null, firstName=laxman, lastName=rao, dob=10/06/1991, addressLine1=chn, addressLine2=sez, city=chnn, state=tamilnadu, pin=600042, mobileNumber=9999999999, emailId=laxman@gmail.com, aadharId=123412341234, pan=ASDFG1234J, userName=laxman123, password=Asdfasdf@1, confirmPassword=null, dobProof=null, addressProof=null, aadharProof=null, panProof=null, kycDetails=null]
+Hibernate: call next value for hibernate_sequence
+Hibernate: insert into USER (AADHAR_ID, ADD_LINE1, ADD_LINE2, CITY, DOB, EMAIL_ID, FIRST_NAME, LAST_NAME, MOBILE_NUMBER, PAN, PASSWORD, PIN, STATE, USER_NAME, USER_ROLE, USER_STATUS, USER_ID) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+Hibernate: select this_.USER_ID as USER_ID1_5_2_, this_.AADHAR_ID as AADHAR_I2_5_2_, this_.ADD_LINE1 as ADD_LINE3_5_2_, this_.ADD_LINE2 as ADD_LINE4_5_2_, this_.CITY as CITY5_5_2_, this_.DOB as DOB6_5_2_, this_.EMAIL_ID as EMAIL_ID7_5_2_, this_.FIRST_NAME as FIRST_NA8_5_2_, this_.LAST_NAME as LAST_NAM9_5_2_, this_.MOBILE_NUMBER as MOBILE_10_5_2_, this_.PAN as PAN11_5_2_, this_.PASSWORD as PASSWOR12_5_2_, this_.PIN as PIN13_5_2_, this_.STATE as STATE14_5_2_, this_.USER_NAME as USER_NA15_5_2_, this_.USER_ROLE as USER_RO16_5_2_, this_.USER_STATUS as USER_ST17_5_2_, kycdetails2_.User_USER_ID as User_USE1_6_4_, kyc3_.KYC_ID as kycDetai2_6_4_, kyc3_.KYC_ID as KYC_ID1_3_0_, kyc3_.DOC_DECRIPTION as DOC_DECR2_3_0_, kyc3_.KYC_TYPE as KYC_TYPE3_3_0_, kyc3_.user_USER_ID as user_USE4_3_0_, user4_.USER_ID as USER_ID1_5_1_, user4_.AADHAR_ID as AADHAR_I2_5_1_, user4_.ADD_LINE1 as ADD_LINE3_5_1_, user4_.ADD_LINE2 as ADD_LINE4_5_1_, user4_.CITY as CITY5_5_1_, user4_.DOB as DOB6_5_1_, user4_.EMAIL_ID as EMAIL_ID7_5_1_, user4_.FIRST_NAME as FIRST_NA8_5_1_, user4_.LAST_NAME as LAST_NAM9_5_1_, user4_.MOBILE_NUMBER as MOBILE_10_5_1_, user4_.PAN as PAN11_5_1_, user4_.PASSWORD as PASSWOR12_5_1_, user4_.PIN as PIN13_5_1_, user4_.STATE as STATE14_5_1_, user4_.USER_NAME as USER_NA15_5_1_, user4_.USER_ROLE as USER_RO16_5_1_, user4_.USER_STATUS as USER_ST17_5_1_ from USER this_ left outer join USER_KYC kycdetails2_ on this_.USER_ID=kycdetails2_.User_USER_ID left outer join KYC kyc3_ on kycdetails2_.kycDetails_KYC_ID=kyc3_.KYC_ID left outer join USER user4_ on kyc3_.user_USER_ID=user4_.USER_ID
+Save Testcase3
+]]></system-out>
+  </testcase>
+</testsuite>
